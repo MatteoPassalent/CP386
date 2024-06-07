@@ -1,0 +1,33 @@
+The output of: ls : is
+>>>>>>>>>>>>>>>
+Makefile
+output.txt
+process_management
+process_management.c
+sample_in_process.txt
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/mnt/c/cp386/assignment_2
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/mnt/c/cp386/assignment_2
+<<<<<<<<<<<<<<<
+The output of: ls : is
+>>>>>>>>>>>>>>>
+Makefile
+a
+output.txt
+process_management
+process_management.c
+sample_in_process.txt
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/mnt/c/cp386/assignment_2
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/mnt/c/cp386/assignment_2
+<<<<<<<<<<<<<<<
